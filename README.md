@@ -1,33 +1,24 @@
-# Jar App Analysis
+# 📊 Sales Analysis & Business Insights
 
-This repository contains details focusing on **Sales Analysis, App Exploration, and Product Expansion Ideas for the Jar App**. It includes data analysis using **Python (Pandas, Matplotlib, Seaborn)** and insights for business growth.
+This project focuses on **sales analysis, profitability insights, and regional performance trends** using real-world datasets. The analysis provides **data-driven recommendations** to optimize sales strategies and improve business growth.
 
----
+## 📌 Features
+✔️ **Sales & Profitability Analysis** – Identify top-performing & underperforming categories.  
+✔️ **Target Achievement Analysis** – Track & analyze monthly sales target fluctuations.  
+✔️ **Regional Sales Insights** – Find top-performing states & optimize weak regions.  
+✔️ **Data-Driven Recommendations** – Business insights for better decision-making.  
+✔️ **Visualizations & Trends** – Charts & graphs for clear understanding.  
 
-## **📌 Features**
-- **Sales & Profitability Analysis**  
-- **Target Achievement & Trend Analysis**  
-- **Regional Sales Performance Insights**  
-- **Jar App Feature & UX Evaluation**  
-- **New Business Opportunities for Expansion**
+## 📂 Datasets Used
+| File Name               | Description |
+|-------------------------|-------------|
+| `Order_Details.csv`     | Contains sales transactions with **Order ID, Amount, Profit, and Category** |
+| `List_of_Orders.csv`    | Metadata about orders including **Order ID, State, and Customer Details** |
+| `Sales_Target.csv`      | Monthly sales targets for different product categories |
 
----
-
-## **📂 Files**
-| File Name                     | Description |
-|--------------------------------|-------------|
-| `sales_analysis.py`            | Python script for analyzing sales data |
-| `Jar_App_Analysis.pdf`         | Business insights & recommendations |
-| `README.md`                    | Documentation for this project |
-| `Order_Details.csv`            | Order details dataset |
-| `List_of_Orders.csv`           | Order metadata |
-| `Sales_Target.csv`             | Target sales data |
-
----
-
-## **🚀 Installation & Usage**
-### **1️⃣ Clone the Repository**
+## 🚀 Installation & Usage
 ```bash
-git clone https://github.com/your-username/jar-app-analysis.git
-cd jar-app-analysis
-
+git clone https://github.com/your-username/sales-analysis.git
+cd sales-analysis
+pip install pandas numpy matplotlib seaborn
+python sales_analysis.py
