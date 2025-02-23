@@ -1,6 +1,6 @@
 # Jar App Analysis
 
-This repository contains a **Business Analyst Intern Assignment** focusing on **Sales Analysis, App Exploration, and Product Expansion Ideas for the Jar App**. It includes data analysis using **Python (Pandas, Matplotlib, Seaborn)** and insights for business growth.
+This repository contains details focusing on **Sales Analysis, App Exploration, and Product Expansion Ideas for the Jar App**. It includes data analysis using **Python (Pandas, Matplotlib, Seaborn)** and insights for business growth.
 
 ---
 
