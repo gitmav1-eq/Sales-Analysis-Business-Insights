@@ -18,7 +18,7 @@ This project focuses on **sales analysis, profitability insights, and regional p
 
 ## 🚀 Installation & Usage
 ```bash
-git clone https://github.com/your-username/sales-analysis.git
+git clone https://github.com/gitmav1-eq/Sales-Analysis-Business-Insights.git
 cd sales-analysis
 pip install pandas numpy matplotlib seaborn
 python sales_analysis.py
